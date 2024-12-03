@@ -70,12 +70,3 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhwNTAxb3RsaTNhYWE0YThkMWp0MGFiaXBybG81enZmcnV2bXZmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pt0EKLDJmVvlS/giphy.gif"  />
 
 ###
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juls-ian&show_icons=true&locale=en&layout=compact" alt="juls-ian" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juls-ian&show_icons=true&locale=en" alt="juls-ian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juls-ian&" alt="juls-ian" /></p>
-
