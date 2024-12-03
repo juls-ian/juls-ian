@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Julius Ian Valdez</h1>
+S<h1 align="center">Hi 👋, I'm Julius Ian Valdez</h1>
 <h3 align="center">A passionate developer from Calamba City, Laguna</h3>
 
 - 🌱 I am an aspiring full stack developer. I have created small to medium full stack applications in on-going journey to become a professional developer
