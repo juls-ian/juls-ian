@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100%" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d66e85e-f832-4fe9-b642-1ecddde1a3a9/dg1kkhn-26759a7f-00b0-43b9-a24d-9b4c8fcbc392.png/v1/fill/w_1280,h_720,q_80,strp/nature___my_neighbor_totoro_by_tsuyoiiii_dg1kkhn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNmQ2NmU4NWUtZjgzMi00ZmU5LWI2NDItMWVjZGRkZTFhM2E5XC9kZzFra2huLTI2NzU5YTdmLTAwYjAtNDNiOS1hMjRkLTliNGM4ZmNiYzM5Mi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ipz_bgW4cZCbKsHNEx0Phcz3tthggb4BSUNyU3uAPd4"  />
+  <img height="80%" width="80%" src="https://preview.redd.it/i-made-a-set-of-totoro-wallpaper-for-pc-and-mobile-phone-v0-aqhyo4zoqiqb1.jpg?width=4000&format=pjpg&auto=webp&s=529ce3d113d751095d7670e770b4bbdc2feadb3e" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Julius Ian Valdez</h1>
