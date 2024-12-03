@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Julius Ian Valdez</h1>
 <h3 align="center">A passionate developer from Calamba City, Laguna</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juls-ian" alt="juls-ian" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I am an aspiring full stack developer. I have created small to medium full stack applications in on-going journey to become a professional developer
 
 - 🎯 My primary goal is to enhance and broaden my expertise in full stack development and contribute my skills to the tech industry
